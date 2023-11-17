@@ -25,5 +25,6 @@ Hi 👋, I'm Yash Rakesh, Currently learning Data Structures and Algorithm in py
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-yashrakesh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![An image of @devyashrakesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devyashrakesh)](https://holopin.io/@devyashrakesh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
